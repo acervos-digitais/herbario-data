@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.DS_Store
+*.pyc
+log.txt
+logs/
+lightning_logs/
+
+json/**/*.json
+
+!json/2025*_*.json
