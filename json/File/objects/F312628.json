@@ -1,0 +1,1 @@
+{"F312628":{"objects":[{"box":[0.7823,0.2279,0.9597,0.3811],"label":"painting of human","score":0.244},{"box":[0.2589,0.2425,0.3808,0.3292],"label":"human face","score":0.254},{"box":[0.7823,0.2279,0.9597,0.3811],"label":"human face","score":0.175},{"box":[0.8942,0.3622,0.9981,0.4782],"label":"naked human back","score":0.205}]}}

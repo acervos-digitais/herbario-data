@@ -1,0 +1,1 @@
+{"F189293":{"objects":[{"box":[0.4868,0.0526,0.5576,0.116],"label":"painting of human","score":0.204},{"box":[0.529,0.4003,0.6753,0.4794],"label":"painting of human","score":0.217},{"box":[0.8979,0.6675,0.9995,0.7849],"label":"dog","score":0.285},{"box":[0.5726,0.4009,0.6273,0.4533],"label":"human face","score":0.233}]}}
