@@ -1,0 +1,1 @@
+{"MU17587":{"objects":[{"box":[0.297,0.0657,0.794,0.5739],"label":"human face","score":0.226},{"box":[0.4867,0.2495,0.7635,0.5638],"label":"human face","score":0.37},{"box":[0.5878,0.4949,0.7553,0.6469],"label":"human hand","score":0.152},{"box":[0.0882,0.4797,0.9262,0.9577],"label":"naked human torso","score":0.283}]}}

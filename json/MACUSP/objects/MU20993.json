@@ -1,0 +1,1 @@
+{"MU20993":{"objects":[{"box":[0.0245,0.0028,0.5553,0.9792],"label":"painting of human","score":0.247},{"box":[0.2491,0.0612,0.4274,0.3446],"label":"human face","score":0.182},{"box":[0.4263,0.2625,0.5153,0.3815],"label":"human hand","score":0.163},{"box":[0.0715,0.3886,0.1711,0.5424],"label":"human hand","score":0.213}]}}

@@ -1,0 +1,1 @@
+{"MU23141":{"objects":[{"box":[0.2492,0.0279,0.791,0.9919],"label":"painting of human","score":0.466},{"box":[0.5797,0.0035,0.8269,0.0976],"label":"human hand","score":0.166},{"box":[0.3927,0.058,0.5733,0.2341],"label":"human face","score":0.152},{"box":[0.2646,0.215,0.7555,0.6294],"label":"naked human back","score":0.251}]}}

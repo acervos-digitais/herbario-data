@@ -1,0 +1,1 @@
+{"MU17092":{"objects":[{"box":[0.1367,0.1341,0.9268,0.8643],"label":"painting of human","score":0.325},{"box":[0.4242,0.2455,0.6126,0.405],"label":"human face","score":0.187},{"box":[0.1745,0.4129,0.3105,0.5884],"label":"human hand","score":0.167},{"box":[0.3929,0.7259,0.6334,0.8568],"label":"human hand","score":0.249}]}}

@@ -1,0 +1,1 @@
+{"MU20302":{"objects":[{"box":[0.2933,0.0322,0.9426,0.9207],"label":"painting of human","score":0.204},{"box":[0.2903,0.0313,0.6602,0.5506],"label":"human face","score":0.199},{"box":[0.1043,0.3127,0.2426,0.515],"label":"human face","score":0.165},{"box":[0.3693,0.7267,0.4284,0.8143],"label":"human hand","score":0.234}]}}
