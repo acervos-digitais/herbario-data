@@ -1,0 +1,1 @@
+{"Q19887891":{"objects":[{"box":[0.0365,0.0774,0.7625,0.9958],"label":"painting of human","score":0.352},{"box":[0.4372,0.1797,0.6657,0.4326],"label":"human face","score":0.267},{"box":[0.0547,0.4125,0.4348,0.6],"label":"human hand","score":0.194},{"box":[0.0251,0.411,0.7403,1.0019],"label":"naked human torso","score":0.211}]}}
