@@ -1,0 +1,1 @@
+{"Q19860131":{"objects":[{"box":[0.301,0.1212,0.768,0.9846],"label":"painting of human","score":0.363},{"box":[0.4,0.1137,0.77,0.574],"label":"painting of human","score":0.253},{"box":[0.0065,-0.0044,0.3064,0.9371],"label":"tree","score":0.153},{"box":[0.1492,0.2906,0.3542,0.4136],"label":"bush","score":0.185}]}}

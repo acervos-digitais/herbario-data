@@ -1,0 +1,1 @@
+{"Q62096603":{"objects":[{"box":[0.352,0.6662,0.851,0.9948],"label":"painting of human","score":0.237},{"box":[0.469,0.153,0.6678,0.3592],"label":"human face","score":0.289},{"box":[0.496,0.8309,0.6444,0.9421],"label":"human hand","score":0.151},{"box":[-0.0017,0.8868,0.1368,0.994],"label":"human hand","score":0.153}]}}

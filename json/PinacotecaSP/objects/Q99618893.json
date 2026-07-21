@@ -1,0 +1,1 @@
+{"Q99618893":{"objects":[{"box":[0.1428,0.0911,0.9861,0.8616],"label":"painting of human","score":0.31},{"box":[0.6588,0.0055,1.0014,0.7201],"label":"vegetation","score":0.152},{"box":[0.1529,0.0839,0.4588,0.5089],"label":"naked human torso","score":0.234},{"box":[0.3778,0.3905,0.7363,0.6697],"label":"naked human back","score":0.24}]}}
