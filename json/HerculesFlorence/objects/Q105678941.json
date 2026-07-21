@@ -1,0 +1,1 @@
+{"Q105678941":{"objects":[{"box":[0.0062,0.1557,0.5171,0.6311],"label":"painting of human","score":0.574},{"box":[0.627,0.187,0.8972,0.5082],"label":"painting of human","score":0.524},{"box":[0.1456,0.1943,0.3401,0.4082],"label":"human face","score":0.427},{"box":[0.6368,0.2344,0.7472,0.4091],"label":"human face","score":0.28}]}}

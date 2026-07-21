@@ -1,0 +1,1 @@
+{"Q50993744":{"objects":[{"box":[0.1027,0.337,0.9816,0.8936],"label":"painting of human","score":0.241},{"box":[0.502,0.5254,0.7205,0.6997],"label":"naked human back","score":0.214},{"box":[0.3059,0.3301,0.9965,0.8831],"label":"naked human torso","score":0.234},{"box":[0.3345,0.5494,0.6835,0.7983],"label":"naked human back","score":0.434}]}}

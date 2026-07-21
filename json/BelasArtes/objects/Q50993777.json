@@ -1,0 +1,1 @@
+{"Q50993777":{"objects":[{"box":[0.7238,0.1201,0.8149,0.1763],"label":"painting of human","score":0.201},{"box":[0.1246,0.0626,0.8879,0.9967],"label":"painting of human","score":0.249},{"box":[0.3985,0.0819,0.5753,0.2343],"label":"human face","score":0.265},{"box":[0.2376,0.4464,0.3753,0.524],"label":"human hand","score":0.151}]}}
