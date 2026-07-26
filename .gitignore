@@ -4,7 +4,7 @@
 log.txt
 logs/
 lightning_logs/
-# json/**/*.json
+json/**/*_activations.json
 json/**/*_embeddings.json
 json/**/*_processed.json
 !json/202[56]*_*.json
