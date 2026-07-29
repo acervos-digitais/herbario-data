@@ -1,1 +1,1 @@
-{"Q106209593":{"objects":[]}}
+{"Q106209593":{"all":[{"box":[0.1719,0.147,0.8548,0.862],"label":"palm tree","score":0.582},{"box":[0.1706,0.1459,0.8449,0.862],"label":"naked human torso","score":0.305}],"dino":[{"box":[0.1719,0.147,0.8548,0.862],"label":"palm tree","score":0.582},{"box":[0.1706,0.1459,0.8449,0.862],"label":"naked human torso","score":0.305}],"owlv2":[]}}

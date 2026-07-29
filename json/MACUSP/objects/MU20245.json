@@ -1,1 +1,1 @@
-{"MU20245":{"objects":[]}}
+{"MU20245":{"all":[{"box":[0.2819,0.3778,0.7466,0.6814],"label":"naked human breast","score":0.34},{"box":[0.2831,0.3757,0.4999,0.6722],"label":"naked human breast","score":0.311}],"dino":[{"box":[0.2819,0.3778,0.7466,0.6814],"label":"naked human breast","score":0.34},{"box":[0.2831,0.3757,0.4999,0.6722],"label":"naked human breast","score":0.311}],"owlv2":[]}}

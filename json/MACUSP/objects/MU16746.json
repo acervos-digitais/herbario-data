@@ -1,1 +1,1 @@
-{"MU16746":{"objects":[]}}
+{"MU16746":{"all":[{"box":[0.2075,0.0639,0.6016,0.6244],"label":"conifer","score":0.473},{"box":[0.1335,0.451,0.7846,0.8192],"label":"naked human breast","score":0.277},{"box":[0.1112,0.0713,0.8648,0.8194],"label":"human face","score":0.259}],"dino":[{"box":[0.2075,0.0639,0.6016,0.6244],"label":"conifer","score":0.473},{"box":[0.1335,0.451,0.7846,0.8192],"label":"naked human breast","score":0.277},{"box":[0.1112,0.0713,0.8648,0.8194],"label":"human face","score":0.259}],"owlv2":[]}}

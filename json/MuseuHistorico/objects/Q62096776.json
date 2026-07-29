@@ -1,1 +1,1 @@
-{"Q62096776":{"objects":[{"box":[0.3512,0.1622,0.6464,0.516],"label":"human face","score":0.237}]}}
+{"Q62096776":{"all":[{"box":[0.3512,0.1622,0.6464,0.516],"label":"human face","score":0.237},{"box":[0.6505,0.787,0.8793,0.9235],"label":"naked human breast","score":0.281}],"dino":[{"box":[0.3938,0.2183,0.6165,0.5053],"label":"human face","score":0.769},{"box":[0.6505,0.787,0.8793,0.9235],"label":"naked human breast","score":0.281}],"owlv2":[{"box":[0.3512,0.1622,0.6464,0.516],"label":"human face","score":0.237}]}}

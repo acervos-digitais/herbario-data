@@ -1,1 +1,1 @@
-{"MU20236":{"objects":[]}}
+{"MU20236":{"all":[{"box":[0.6029,0.3076,0.7922,0.5024],"label":"naked human breast","score":0.322},{"box":[0.1997,0.3152,0.384,0.5041],"label":"naked human breast","score":0.283},{"box":[0.3921,0.6899,0.6007,0.9062],"label":"naked human torso","score":0.301}],"dino":[{"box":[0.6029,0.3076,0.7922,0.5024],"label":"naked human breast","score":0.322},{"box":[0.1997,0.3152,0.384,0.5041],"label":"naked human breast","score":0.283},{"box":[0.3921,0.6899,0.6007,0.9062],"label":"naked human torso","score":0.301}],"owlv2":[]}}

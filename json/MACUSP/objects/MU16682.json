@@ -1,1 +1,1 @@
-{"MU16682":{"objects":[]}}
+{"MU16682":{"all":[{"box":[0.8264,0.2493,0.9488,0.5514],"label":"bird","score":0.253},{"box":[0.2484,0.0369,0.7715,0.3636],"label":"naked human torso","score":0.3}],"dino":[{"box":[0.8264,0.2493,0.9488,0.5514],"label":"bird","score":0.253},{"box":[0.2484,0.0369,0.7715,0.3636],"label":"naked human torso","score":0.3}],"owlv2":[]}}
