@@ -1,1 +1,1 @@
-{"MU23136":{"all":[{"box":[0.4933,0.2949,0.7042,0.8908],"label":"human face","score":0.464},{"box":[0.1683,0.2388,0.4956,0.865],"label":"naked human breast","score":0.356}],"dino":[{"box":[0.4933,0.2949,0.7042,0.8908],"label":"human face","score":0.464},{"box":[0.1683,0.2388,0.4956,0.865],"label":"naked human breast","score":0.356}],"owlv2":[]}}
+{"MU23136":{"owlv2":[]}}

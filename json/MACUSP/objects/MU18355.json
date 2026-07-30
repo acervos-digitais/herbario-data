@@ -1,1 +1,1 @@
-{"MU18355":{"all":[{"box":[0.8304,0.541,0.9991,0.9921],"label":"human","score":0.251},{"box":[0.8908,0.5866,1.001,0.8111],"label":"naked human torso","score":0.306}],"dino":[{"box":[0.8304,0.541,0.9991,0.9921],"label":"human","score":0.251},{"box":[0.8908,0.5866,1.001,0.8111],"label":"naked human torso","score":0.306}],"owlv2":[]}}
+{"MU18355":{"owlv2":[]}}

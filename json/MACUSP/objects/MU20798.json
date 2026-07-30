@@ -1,1 +1,1 @@
-{"MU20798":{"all":[{"box":[0.258,0.7186,0.7013,0.9837],"label":"naked human torso","score":0.329},{"box":[0.1949,0.3814,0.3261,0.6256],"label":"naked human breast","score":0.318}],"dino":[{"box":[0.258,0.7186,0.7013,0.9837],"label":"naked human torso","score":0.329},{"box":[0.1949,0.3814,0.3261,0.6256],"label":"naked human breast","score":0.318}],"owlv2":[]}}
+{"MU20798":{"owlv2":[]}}

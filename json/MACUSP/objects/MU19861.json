@@ -1,1 +1,1 @@
-{"MU19861":{"all":[{"box":[0.1559,0.2628,0.8263,0.7251],"label":"conifer","score":0.279},{"box":[0.1494,0.2567,0.81,0.6925],"label":"naked human breast","score":0.312}],"dino":[{"box":[0.1559,0.2628,0.8263,0.7251],"label":"conifer","score":0.279},{"box":[0.1494,0.2567,0.81,0.6925],"label":"naked human breast","score":0.312}],"owlv2":[]}}
+{"MU19861":{"owlv2":[]}}

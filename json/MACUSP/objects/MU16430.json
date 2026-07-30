@@ -1,1 +1,1 @@
-{"MU16430":{"all":[{"box":[0.5371,0.6586,0.7469,0.9461],"label":"palm tree","score":0.257},{"box":[0.6164,0.3997,0.7942,0.5943],"label":"naked human breast","score":0.4}],"dino":[{"box":[0.5371,0.6586,0.7469,0.9461],"label":"palm tree","score":0.257},{"box":[0.6164,0.3997,0.7942,0.5943],"label":"naked human breast","score":0.4}],"owlv2":[]}}
+{"MU16430":{"owlv2":[]}}

@@ -1,1 +1,1 @@
-{"MU20616":{"all":[{"box":[0.2492,0.1584,0.712,0.8076],"label":"human face","score":0.727},{"box":[0.117,0.0436,0.8806,0.9104],"label":"human face","score":0.221},{"box":[0.0703,0.81,0.8839,0.9753],"label":"naked human torso","score":0.382}],"dino":[{"box":[0.2492,0.1584,0.712,0.8076],"label":"human face","score":0.727},{"box":[0.0703,0.81,0.8839,0.9753],"label":"naked human torso","score":0.382}],"owlv2":[{"box":[0.117,0.0436,0.8806,0.9104],"label":"human face","score":0.221}]}}
+{"MU20616":{"owlv2":[{"box":[0.117,0.0436,0.8806,0.9104],"label":"human face","score":0.221}]}}

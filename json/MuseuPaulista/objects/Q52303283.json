@@ -1,1 +1,1 @@
-{"Q52303283":{"all":[{"box":[0.0397,0.0549,0.5436,0.9825],"label":"palm tree","score":0.563},{"box":[0.0861,0.3921,0.1817,0.7127],"label":"naked human breast","score":0.321}],"dino":[{"box":[0.0397,0.0549,0.5436,0.9825],"label":"palm tree","score":0.563},{"box":[0.0861,0.3921,0.1817,0.7127],"label":"naked human breast","score":0.321}],"owlv2":[]}}
+{"Q52303283":{"owlv2":[]}}
