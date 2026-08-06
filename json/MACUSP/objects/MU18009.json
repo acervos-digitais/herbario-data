@@ -1,1 +1,1 @@
-{"MU18009":{"owlv2":[{"box":[0.4304,0.3889,0.5665,0.498],"label":"naked human breast","score":0.264}]}}
+{"MU18009":{"all":[{"box":[0.4304,0.3889,0.5665,0.498],"label":"naked human breast","score":0.264},{"box":[0.4782,0.3309,0.5386,0.3793],"label":"face","score":0.251}],"dino":[{"box":[0.4782,0.3309,0.5386,0.3793],"label":"face","score":0.251}],"owlv2":[{"box":[0.4304,0.3889,0.5665,0.498],"label":"naked human breast","score":0.264}]}}

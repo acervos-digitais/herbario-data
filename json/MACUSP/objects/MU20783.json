@@ -1,1 +1,1 @@
-{"MU20783":{"owlv2":[{"box":[0.1402,0.1831,0.9133,0.9256],"label":"painting of human","score":0.325}]}}
+{"MU20783":{"all":[{"box":[0.1402,0.1831,0.9133,0.9256],"label":"painting of human","score":0.325}],"dino":[],"owlv2":[{"box":[0.1402,0.1831,0.9133,0.9256],"label":"painting of human","score":0.325}]}}

@@ -1,1 +1,1 @@
-{"MU19431":{"owlv2":[{"box":[0.1868,0.1454,0.6624,0.7538],"label":"painting of human","score":0.555},{"box":[0.1868,0.1454,0.6624,0.7538],"label":"human face","score":0.41}]}}
+{"MU19431":{"all":[{"box":[0.1868,0.1454,0.6624,0.7538],"label":"painting of human","score":0.555},{"box":[0.1868,0.1454,0.6624,0.7538],"label":"human face","score":0.41}],"dino":[],"owlv2":[{"box":[0.1868,0.1454,0.6624,0.7538],"label":"painting of human","score":0.555},{"box":[0.1868,0.1454,0.6624,0.7538],"label":"human face","score":0.41}]}}

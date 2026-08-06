@@ -1,1 +1,1 @@
-{"MU16762":{"owlv2":[]}}
+{"MU16762":{"all":[{"box":[0.495,0.5364,0.6804,0.8473],"label":"human figure","score":0.379},{"box":[0.5395,0.5372,0.6401,0.6781],"label":"human figure","score":0.272}],"dino":[{"box":[0.495,0.5364,0.6804,0.8473],"label":"human figure","score":0.379},{"box":[0.5395,0.5372,0.6401,0.6781],"label":"human figure","score":0.272}],"owlv2":[]}}

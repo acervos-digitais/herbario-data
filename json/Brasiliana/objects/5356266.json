@@ -1,1 +1,1 @@
-{"5356266":{"owlv2":[]}}
+{"5356266":{"all":[{"box":[0.4028,0.7496,0.4221,0.8242],"label":"human figure","score":0.326},{"box":[0.4209,0.7462,0.4416,0.8251],"label":"human figure","score":0.337},{"box":[0.4017,0.7447,0.4411,0.8261],"label":"human figure","score":0.313}],"dino":[{"box":[0.4028,0.7496,0.4221,0.8242],"label":"human figure","score":0.326},{"box":[0.4209,0.7462,0.4416,0.8251],"label":"human figure","score":0.337},{"box":[0.4017,0.7447,0.4411,0.8261],"label":"human figure","score":0.313}],"owlv2":[]}}

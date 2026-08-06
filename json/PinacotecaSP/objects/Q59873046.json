@@ -1,1 +1,1 @@
-{"Q59873046":{"owlv2":[{"box":[0.4052,0.1957,0.6352,0.7047],"label":"painting of human","score":0.33}]}}
+{"Q59873046":{"all":[{"box":[0.4052,0.1957,0.6352,0.7047],"label":"painting of human","score":0.33},{"box":[0.528,0.6572,0.5824,0.7022],"label":"foot","score":0.376}],"dino":[{"box":[0.528,0.6572,0.5824,0.7022],"label":"foot","score":0.376}],"owlv2":[{"box":[0.4052,0.1957,0.6352,0.7047],"label":"painting of human","score":0.33}]}}
